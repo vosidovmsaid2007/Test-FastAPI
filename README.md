@@ -1,4 +1,4 @@
-# Task
+# FastAPI-Email-Confirmation-Server
 
 ## Описание
 Простой проект FastAPI, предназначенный для регистрации пользователей по email с подтверждением по email.
